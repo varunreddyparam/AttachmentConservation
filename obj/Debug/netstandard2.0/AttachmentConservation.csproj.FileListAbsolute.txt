@@ -1,0 +1,5 @@
+C:\Users\v-vapara\source\repos\AttachmentConservation\bin\Debug\netstandard2.0\AttachmentConservation.deps.json
+C:\Users\v-vapara\source\repos\AttachmentConservation\bin\Debug\netstandard2.0\AttachmentConservation.dll
+C:\Users\v-vapara\source\repos\AttachmentConservation\obj\Debug\netstandard2.0\AttachmentConservation.csprojAssemblyReference.cache
+C:\Users\v-vapara\source\repos\AttachmentConservation\obj\Debug\netstandard2.0\AttachmentConservation.AssemblyInfoInputs.cache
+C:\Users\v-vapara\source\repos\AttachmentConservation\obj\Debug\netstandard2.0\AttachmentConservation.AssemblyInfo.cs
